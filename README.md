@@ -1,7 +1,7 @@
 Hi, I’m @tagur18 👋
 
 💻 Full-Stack Developer | C++ Programmer | DSA Enthusiast
-🚀 Building real-world applications like Nestify (Airbnb-like platform)
+🚀 Building real-world applications 
 
 🧠 Focused on mastering Data Structures & Algorithms
 📈 Solving LeetCode problems consistently
